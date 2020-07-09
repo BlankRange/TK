@@ -1,3 +1,13 @@
 <Version: 1.01>
-/README.txt https://raw.githubusercontent.com/BlankRange/TK/b41d50b1e0702633575b5fe449c017d27f79e42e/README.txt
+/README.txt https://raw.githubusercontent.com/BlankRange/TK/master/README.txt
+/data/Actors.json https://raw.githubusercontent.com/BlankRange/TK/master/Actors.json
+/data/Armors.json https://raw.githubusercontent.com/BlankRange/TK/master/Armors.json
+/data/Classes.json https://raw.githubusercontent.com/BlankRange/TK/master/Classes.json
+/data/Enemies.json https://raw.githubusercontent.com/BlankRange/TK/master/Enemies.json
+/data/Map001.json https://raw.githubusercontent.com/BlankRange/TK/master/Map001.json
+/data/Map002.json https://raw.githubusercontent.com/BlankRange/TK/master/Map002.json
+/data/Map003.json https://raw.githubusercontent.com/BlankRange/TK/master/Map003.json
+/data/Skills.json https://raw.githubusercontent.com/BlankRange/TK/master/Skills.json
+/data/Troops.json https://raw.githubusercontent.com/BlankRange/TK/master/Troops.json
+/data/Weapons.json https://raw.githubusercontent.com/BlankRange/TK/master/Weapons.json
 <End of Version>
