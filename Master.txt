@@ -1,4 +1,4 @@
-<Version: 1.02>
+<Version: 1.03>
 /README.txt https://raw.githubusercontent.com/BlankRange/TK/master/README.txt
 /data/Actors.json https://raw.githubusercontent.com/BlankRange/TK/master/Actors.json
 /data/Animations.json https://raw.githubusercontent.com/BlankRange/TK/master/Animations.json
