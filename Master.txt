@@ -4,11 +4,8 @@
 
 <Version: 1.03>
 /data/Actors.json https://raw.githubusercontent.com/BlankRange/TK/master/Actors.json
-/data/Animations.json https://raw.githubusercontent.com/BlankRange/TK/master/Animations.json
 /data/Armors.json https://raw.githubusercontent.com/BlankRange/TK/master/Armors.json
-/data/BattleHUD.json https://raw.githubusercontent.com/BlankRange/TK/master/BattleHUD.json
 /data/Classes.json https://raw.githubusercontent.com/BlankRange/TK/master/Classes.json
-/data/CommonEvents.json https://raw.githubusercontent.com/BlankRange/TK/master/CommonEvents.json
 /data/DataEX.json https://raw.githubusercontent.com/BlankRange/TK/master/DataEX.json
 /data/Enemies.json https://raw.githubusercontent.com/BlankRange/TK/master/Enemies.json
 /data/Items.json https://raw.githubusercontent.com/BlankRange/TK/master/Items.json
@@ -16,11 +13,8 @@
 /data/Map002.json https://raw.githubusercontent.com/BlankRange/TK/master/Map002.json
 /data/Map003.json https://raw.githubusercontent.com/BlankRange/TK/master/Map003.json
 /data/MapHUD.json https://raw.githubusercontent.com/BlankRange/TK/master/MapHUD.json
-/data/MapInfos.json https://raw.githubusercontent.com/BlankRange/TK/master/MapInfos.json
 /data/Skills.json https://raw.githubusercontent.com/BlankRange/TK/master/Skills.json
-/data/States.json https://raw.githubusercontent.com/BlankRange/TK/master/States.json
 /data/System.json https://raw.githubusercontent.com/BlankRange/TK/master/System.json
-/data/Tilesets.json https://raw.githubusercontent.com/BlankRange/TK/master/Tilesets.json
 /data/Troops.json https://raw.githubusercontent.com/BlankRange/TK/master/Troops.json
 /data/Weapons.json https://raw.githubusercontent.com/BlankRange/TK/master/Weapons.json
 /data/Windows.json https://raw.githubusercontent.com/BlankRange/TK/master/Windows.json
