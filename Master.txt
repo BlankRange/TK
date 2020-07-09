@@ -10,4 +10,5 @@
 /data/Skills.json https://raw.githubusercontent.com/BlankRange/TK/master/Skills.json
 /data/Troops.json https://raw.githubusercontent.com/BlankRange/TK/master/Troops.json
 /data/Weapons.json https://raw.githubusercontent.com/BlankRange/TK/master/Weapons.json
+/data/Windows.json https://raw.githubusercontent.com/BlankRange/TK/master/Windows.json
 <End of Version>
