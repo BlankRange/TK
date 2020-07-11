@@ -2,7 +2,7 @@
 /README.txt https://raw.githubusercontent.com/BlankRange/TK/master/README.txt
 <End of Version>
 
-<Version: 1.06>
+<Version: 1.07>
 /data/Actors.json https://raw.githubusercontent.com/BlankRange/TK/master/Actors.json
 /data/Armors.json https://raw.githubusercontent.com/BlankRange/TK/master/Armors.json
 /data/Classes.json https://raw.githubusercontent.com/BlankRange/TK/master/Classes.json
